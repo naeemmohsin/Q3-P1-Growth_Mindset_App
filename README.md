@@ -51,7 +51,3 @@ The application will open in your default web browser at `http://localhost:8501`
 ## Contributing
 
 Feel free to fork this repository and submit pull requests to contribute to this project.
-
-## License
-
-This project is licensed under the MIT License. 
